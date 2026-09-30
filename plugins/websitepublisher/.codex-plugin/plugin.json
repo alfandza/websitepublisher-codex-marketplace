@@ -1,0 +1,7 @@
+{
+  "name": "websitepublisher",
+  "version": "1.0.0",
+  "description": "Build and manage websites, web apps, webshops, forms, entities, integrations, and site content with WebsitePublisher.ai.",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "websitepublisher",
+  "interface": {
+    "displayName": "WebsitePublisher"
+  },
+  "plugins": [
+    {
+      "name": "websitepublisher",
+      "source": {
+        "source": "local",
+        "path": "./plugins/websitepublisher"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
